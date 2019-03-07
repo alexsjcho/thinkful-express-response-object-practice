@@ -1,0 +1,12 @@
+{
+  "name": "4express-response-object",
+  "version": "1.0.0",
+  "description": "Thinkful working the Express response object practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex Cho",
+  "license": "ISC"
+}
